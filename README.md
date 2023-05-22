@@ -1,2 +1,2 @@
 # Social-Media-Icons-in-footer
-Social media icons in the footer of a webpage.
+It's about adding a Social media icon in the footer of a webpage using just HTML and CSS.
